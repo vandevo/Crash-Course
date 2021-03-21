@@ -83,7 +83,7 @@ a:focus {
 .hero {
     text-align: left;
     padding: 14rem 0 25rem;
-    background-image: url(img/moon.jpg);
+    background-image: url(/img/moon-1.jpeg);
     background-size: cover;
     background-position: bottom right;
 }
@@ -117,4 +117,12 @@ section {
 
 .text-dark {
     color: lightsalmon;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.columns {
+    display: flex;
 }

@@ -60,6 +60,16 @@ section {
 }
 
 .container {
-    width: 800px;
+    width: 600px;
     border: 10px solid lightskyblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.columns {
+    display: flex;
+}
+
+.col {
+    margin: 0 1em;
 }
